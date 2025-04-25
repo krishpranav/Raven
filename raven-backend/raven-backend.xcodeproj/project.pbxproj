@@ -7,24 +7,24 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		B1991B5E2DBB8B49009064B4 /* raven_backend.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = raven_backend.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		B1991B792DBB8BCC009064B4 /* raven_backend.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = raven_backend.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		B1991B652DBB8B49009064B4 /* Exceptions for "raven-backend" folder in "raven-backend" target */ = {
+		B1991B802DBB8BCC009064B4 /* Exceptions for "raven-backend" folder in "raven-backend" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			publicHeaders = (
 				raven_backend.h,
 			);
-			target = B1991B5D2DBB8B49009064B4 /* raven-backend */;
+			target = B1991B782DBB8BCC009064B4 /* raven-backend */;
 		};
 /* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		B1991B602DBB8B49009064B4 /* raven-backend */ = {
+		B1991B7B2DBB8BCC009064B4 /* raven-backend */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
-				B1991B652DBB8B49009064B4 /* Exceptions for "raven-backend" folder in "raven-backend" target */,
+				B1991B802DBB8BCC009064B4 /* Exceptions for "raven-backend" folder in "raven-backend" target */,
 			);
 			path = "raven-backend";
 			sourceTree = "<group>";
@@ -32,7 +32,7 @@
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		B1991B5B2DBB8B49009064B4 /* Frameworks */ = {
+		B1991B762DBB8BCC009064B4 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -42,18 +42,18 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		B1991B542DBB8B49009064B4 = {
+		B1991B6F2DBB8BCC009064B4 = {
 			isa = PBXGroup;
 			children = (
-				B1991B602DBB8B49009064B4 /* raven-backend */,
-				B1991B5F2DBB8B49009064B4 /* Products */,
+				B1991B7B2DBB8BCC009064B4 /* raven-backend */,
+				B1991B7A2DBB8BCC009064B4 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		B1991B5F2DBB8B49009064B4 /* Products */ = {
+		B1991B7A2DBB8BCC009064B4 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				B1991B5E2DBB8B49009064B4 /* raven_backend.framework */,
+				B1991B792DBB8BCC009064B4 /* raven_backend.framework */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -61,7 +61,7 @@
 /* End PBXGroup section */
 
 /* Begin PBXHeadersBuildPhase section */
-		B1991B592DBB8B49009064B4 /* Headers */ = {
+		B1991B742DBB8BCC009064B4 /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -71,64 +71,64 @@
 /* End PBXHeadersBuildPhase section */
 
 /* Begin PBXNativeTarget section */
-		B1991B5D2DBB8B49009064B4 /* raven-backend */ = {
+		B1991B782DBB8BCC009064B4 /* raven-backend */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = B1991B662DBB8B49009064B4 /* Build configuration list for PBXNativeTarget "raven-backend" */;
+			buildConfigurationList = B1991B812DBB8BCC009064B4 /* Build configuration list for PBXNativeTarget "raven-backend" */;
 			buildPhases = (
-				B1991B592DBB8B49009064B4 /* Headers */,
-				B1991B5A2DBB8B49009064B4 /* Sources */,
-				B1991B5B2DBB8B49009064B4 /* Frameworks */,
-				B1991B5C2DBB8B49009064B4 /* Resources */,
+				B1991B742DBB8BCC009064B4 /* Headers */,
+				B1991B752DBB8BCC009064B4 /* Sources */,
+				B1991B762DBB8BCC009064B4 /* Frameworks */,
+				B1991B772DBB8BCC009064B4 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				B1991B602DBB8B49009064B4 /* raven-backend */,
+				B1991B7B2DBB8BCC009064B4 /* raven-backend */,
 			);
 			name = "raven-backend";
 			packageProductDependencies = (
 			);
 			productName = "raven-backend";
-			productReference = B1991B5E2DBB8B49009064B4 /* raven_backend.framework */;
+			productReference = B1991B792DBB8BCC009064B4 /* raven_backend.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		B1991B552DBB8B49009064B4 /* Project object */ = {
+		B1991B702DBB8BCC009064B4 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastUpgradeCheck = 1620;
 				TargetAttributes = {
-					B1991B5D2DBB8B49009064B4 = {
+					B1991B782DBB8BCC009064B4 = {
 						CreatedOnToolsVersion = 16.2;
 					};
 				};
 			};
-			buildConfigurationList = B1991B582DBB8B49009064B4 /* Build configuration list for PBXProject "raven-backend" */;
+			buildConfigurationList = B1991B732DBB8BCC009064B4 /* Build configuration list for PBXProject "raven-backend" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
 			);
-			mainGroup = B1991B542DBB8B49009064B4;
+			mainGroup = B1991B6F2DBB8BCC009064B4;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = B1991B5F2DBB8B49009064B4 /* Products */;
+			productRefGroup = B1991B7A2DBB8BCC009064B4 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				B1991B5D2DBB8B49009064B4 /* raven-backend */,
+				B1991B782DBB8BCC009064B4 /* raven-backend */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		B1991B5C2DBB8B49009064B4 /* Resources */ = {
+		B1991B772DBB8BCC009064B4 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -138,7 +138,7 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		B1991B5A2DBB8B49009064B4 /* Sources */ = {
+		B1991B752DBB8BCC009064B4 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -148,12 +148,12 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		B1991B672DBB8B49009064B4 /* Debug */ = {
+		B1991B822DBB8BCC009064B4 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ALLOW_TARGET_PLATFORM_SPECIALIZATION = YES;
 				BUILD_LIBRARY_FOR_DISTRIBUTION = YES;
 				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
 				CURRENT_PROJECT_VERSION = 1;
 				DEFINES_MODULE = YES;
 				DEVELOPMENT_TEAM = 32QP46JEL2;
@@ -164,38 +164,29 @@
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_NSHumanReadableCopyright = "";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
 				LD_RUNPATH_SEARCH_PATHS = (
-					"@executable_path/Frameworks",
-					"@loader_path/Frameworks",
-				);
-				"LD_RUNPATH_SEARCH_PATHS[sdk=macosx*]" = (
+					"$(inherited)",
 					"@executable_path/../Frameworks",
 					"@loader_path/Frameworks",
 				);
-				MACOSX_DEPLOYMENT_TARGET = 15.2;
 				MARKETING_VERSION = 1.0;
 				MODULE_VERIFIER_SUPPORTED_LANGUAGES = "objective-c objective-c++";
 				MODULE_VERIFIER_SUPPORTED_LANGUAGE_STANDARDS = "gnu17 gnu++20";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.raven.raven-backend";
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
-				SDKROOT = auto;
 				SKIP_INSTALL = YES;
-				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx xros xrsimulator";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_INSTALL_OBJC_HEADER = NO;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2,7";
-				XROS_DEPLOYMENT_TARGET = 2.2;
 			};
 			name = Debug;
 		};
-		B1991B682DBB8B49009064B4 /* Release */ = {
+		B1991B832DBB8BCC009064B4 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ALLOW_TARGET_PLATFORM_SPECIALIZATION = YES;
 				BUILD_LIBRARY_FOR_DISTRIBUTION = YES;
 				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
 				CURRENT_PROJECT_VERSION = 1;
 				DEFINES_MODULE = YES;
 				DEVELOPMENT_TEAM = 32QP46JEL2;
@@ -206,33 +197,24 @@
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_NSHumanReadableCopyright = "";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
 				LD_RUNPATH_SEARCH_PATHS = (
-					"@executable_path/Frameworks",
-					"@loader_path/Frameworks",
-				);
-				"LD_RUNPATH_SEARCH_PATHS[sdk=macosx*]" = (
+					"$(inherited)",
 					"@executable_path/../Frameworks",
 					"@loader_path/Frameworks",
 				);
-				MACOSX_DEPLOYMENT_TARGET = 15.2;
 				MARKETING_VERSION = 1.0;
 				MODULE_VERIFIER_SUPPORTED_LANGUAGES = "objective-c objective-c++";
 				MODULE_VERIFIER_SUPPORTED_LANGUAGE_STANDARDS = "gnu17 gnu++20";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.raven.raven-backend";
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
-				SDKROOT = auto;
 				SKIP_INSTALL = YES;
-				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx xros xrsimulator";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_INSTALL_OBJC_HEADER = NO;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2,7";
-				XROS_DEPLOYMENT_TARGET = 2.2;
 			};
 			name = Release;
 		};
-		B1991B692DBB8B49009064B4 /* Debug */ = {
+		B1991B842DBB8BCC009064B4 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -286,9 +268,11 @@
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MACOSX_DEPLOYMENT_TARGET = 15.2;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				VERSIONING_SYSTEM = "apple-generic";
@@ -296,7 +280,7 @@
 			};
 			name = Debug;
 		};
-		B1991B6A2DBB8B49009064B4 /* Release */ = {
+		B1991B852DBB8BCC009064B4 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -344,8 +328,10 @@
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MACOSX_DEPLOYMENT_TARGET = 15.2;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
+				SDKROOT = macosx;
 				SWIFT_COMPILATION_MODE = wholemodule;
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
@@ -355,25 +341,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		B1991B582DBB8B49009064B4 /* Build configuration list for PBXProject "raven-backend" */ = {
+		B1991B732DBB8BCC009064B4 /* Build configuration list for PBXProject "raven-backend" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				B1991B692DBB8B49009064B4 /* Debug */,
-				B1991B6A2DBB8B49009064B4 /* Release */,
+				B1991B842DBB8BCC009064B4 /* Debug */,
+				B1991B852DBB8BCC009064B4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		B1991B662DBB8B49009064B4 /* Build configuration list for PBXNativeTarget "raven-backend" */ = {
+		B1991B812DBB8BCC009064B4 /* Build configuration list for PBXNativeTarget "raven-backend" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				B1991B672DBB8B49009064B4 /* Debug */,
-				B1991B682DBB8B49009064B4 /* Release */,
+				B1991B822DBB8BCC009064B4 /* Debug */,
+				B1991B832DBB8BCC009064B4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = B1991B552DBB8B49009064B4 /* Project object */;
+	rootObject = B1991B702DBB8BCC009064B4 /* Project object */;
 }
